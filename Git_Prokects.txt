@@ -1,0 +1,35 @@
+Project to uploaod on github
+Interactive Dictionary   skill ,VisualStudio , sqlite3,python 
+2.Bookstore  
+Description :
+ GUI Interacting useful for small colleges
+Skill applied sqlite, postgres -mysql 
+GUI Tkinter Project  
+
+3.Webscrapping/ Web Crawling 
+Project Title I am feeling lucky 
+Description 
+Take the user input an open multiple search result on search engine
+3.i) Real world example wcappring the real estate websites for education purpose
+
+
+4. Send email Project 
+Skills smtp  lib , modules, Pandas library , CSV module 
+From source to all email on the csv 
+
+
+5. Feel Good App (installed kivy , starte dgetting identation errors)
+SKills Kivy  module in pycharm
+Available in PLay Store
+
+
+6. Python Rest API Project 
+1. Hackerank  winner Argentina and its goals 
+One from linkedin Learning RestAPI with python excel visualization 
+ 
+
+
+
+
+Git is a cloud storage and reporsitory
+
